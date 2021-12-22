@@ -1,3 +1,14 @@
+###  Olá eu sou o Therenss
+
+
+- 🔭 Hoje trabalhando em Discord.js
+- 🌱 Estudando JavaScript
+- 😄 Pronomes: Ele/dele
+- ✨ Focado em JavaScript
+- 🎈 Quase não uso aqui.
+- 🦊 Me contate / Contact me:
+
+
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a5HeThSyJf)
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31naat26ayc5k4gq7m2oap3ohxxu?si=gtxdMB82R6i8-s2hOrv31w&utm_source=copy-link)
