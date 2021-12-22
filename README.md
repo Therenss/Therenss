@@ -1,9 +1,5 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a5HeThSyJf)
 
-
-
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198333517147/)
-
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12156336211?si=8dc7b227e52149cc)
 
 <div align="center">
@@ -30,16 +26,9 @@
 
 <div> 
 
-  <a href="https://www.youtube.com/channel/UCPWNtkJPKdJJZi0dEDWNWMw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/Therenss" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
   <a href="https://instagram.com/Therenss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
  	
  <a href="https://discord.gg/a5HeThSyJf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-
-
- 
-
-  ![Snake animation](https://github.com/KennedG/KennedG/blob/output/github-contribution-grid-snake.svg)
-
-</div>
