@@ -1,15 +1,41 @@
-<p align="center">
-    Prazer, sou o gb 👋😃
-</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=My+Profile.)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://discord.com/users/930672718876147763" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/930672718876147763?bg=0c1014&borderRadius=5px" alt="Discord Status"/>
+    <br>
+  <a href="https://discord.com/users/794015673184419881" target="_blank">
+    <img width="45%" src="https://lanyard.cnrad.dev/api/794015673184419881?bg=151515&borderRadius=5px" alt="Discord Status"/>
     </a>
-</p>
+
+<div align="center">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cardoso&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
+        <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cardoso&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
+      <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Cardoso&theme=midnight-purple&hide_border=true&background=151515">
+</div>
 
 <p align="center">
-  <a href="https://discord.com/users/930672718876147763" target="_blank">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/imnotgb?cardType=level&theme=gotham" alt="GitHub Status"/>
-    </a>
+<a href="https://wakatime.com/@splinter" target="_blank">
+	<img align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=splinter&border_radius=5px&theme=dark&bg_color=151515&border_color=151515&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats">
+</a>
 </p>
+
+<div style="display: inline_block" align="center">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Rafa-Js" height="35" width="35" src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png">
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://badges.pufler.dev/visits/Cardoso/Cardoso" />
+    <img src="https://badges.pufler.dev/repos/Cardoso" />
+</div>
+
+</div>
+
+<hr>
+
+<h3 align='center'>
+    🚀 The sky isn't the limit.
+</h3>
