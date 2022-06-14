@@ -6,8 +6,6 @@
   <a href="https://discord.com/users/794015673184419881" target="_blank">
     <img width="45%" src="https://lanyard.cnrad.dev/api/794015673184419881?bg=151515&borderRadius=5px" alt="Discord Status"/>
     </a>
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a5HeThSyJf)
-
 
 <div align="center">
 
@@ -35,7 +33,6 @@
 
 
   
-  <a href="https://twitter.com/Therensss?t=tHn6wCC03jkvfB-NVszEQg&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/a5HeThSyJf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 
@@ -48,12 +45,3 @@
 
 <h3 align='center'>
     🚀 The sky isn't the limit.
-
-
-- 🔭 Hoje trabalhando em Discord.js
-- 🌱 Estudando JavaScript
-- 😄 Pronomes: Ele/dele
-- ✨ Focado em JavaScript
-- 🎈 Quase não uso aqui.
-- 🦊 Me contate / Contact me:
-
