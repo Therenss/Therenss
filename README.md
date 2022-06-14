@@ -6,32 +6,6 @@
   <a href="https://discord.com/users/794015673184419881" target="_blank">
     <img width="45%" src="https://lanyard.cnrad.dev/api/794015673184419881?bg=151515&borderRadius=5px" alt="Discord Status"/>
     </a>
-
-<div align="center">
-        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Cardoso&show_icons=true&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true,contribs" />
-        <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cardoso&theme=dark&hide_border=true&layout=compact&langs_count=7" alt="Github Languages" />
-      <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Cardoso&theme=midnight-purple&hide_border=true&background=151515">
-</div>
-<br>
-
-
-</div>
-
-<hr>
-
-<h3 align='center'>
-    🚀 The sky isn't the limit.
-
-
-- 🔭 Hoje trabalhando em Discord.js
-- 🌱 Estudando JavaScript
-- 😄 Pronomes: Ele/dele
-- ✨ Focado em JavaScript
-- 🎈 Quase não uso aqui.
-- 🦊 Me contate / Contact me:
-
-
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/a5HeThSyJf)
 
 
@@ -60,7 +34,26 @@
 <div> 
 
 
-  <a href="https://instagram.com/Therenss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
   <a href="https://twitter.com/Therensss?t=tHn6wCC03jkvfB-NVszEQg&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/a5HeThSyJf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+
+<br>
+
+
+</div>
+
+<hr>
+
+<h3 align='center'>
+    🚀 The sky isn't the limit.
+
+
+- 🔭 Hoje trabalhando em Discord.js
+- 🌱 Estudando JavaScript
+- 😄 Pronomes: Ele/dele
+- ✨ Focado em JavaScript
+- 🎈 Quase não uso aqui.
+- 🦊 Me contate / Contact me:
+
